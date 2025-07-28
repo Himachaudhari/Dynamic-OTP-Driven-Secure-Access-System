@@ -39,3 +39,12 @@
 | OTP Flow        | projectmain.c  | Main application logic              |
 | Actuation       | Motor / Bulb   | Signal user access granted/failure  |
 | Password Change | Interrupt ISR  | Modify and store new password       |
+
+<img width="750" height="433" alt="image" src="https://github.com/user-attachments/assets/46511ce6-79b6-4a6c-bd4d-63e8fe522153" />
+<img width="750" height="701" alt="image" src="https://github.com/user-attachments/assets/a86bc112-1d78-48e3-8a8a-8f32e4a6c2a5" />
+<img width="750" height="607" alt="image" src="https://github.com/user-attachments/assets/0a0d8f69-274d-44de-9de8-4546dfd4e5d0" />
+<img width="600" height="553" alt="image" src="https://github.com/user-attachments/assets/a072020a-b246-48f7-a785-ad4e5e37a24b" />
+
+
+
+
